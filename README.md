@@ -5,3 +5,5 @@ Priority Queue Elementary Data Structure
 https://ideone.com/YmUNSn
 
 ### Referecens:
+
+https://cs.lmu.edu/~ray/notes/pqueues/
